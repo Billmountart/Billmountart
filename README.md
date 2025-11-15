@@ -2,7 +2,7 @@ Billmountart | README.md
 # Hi there, My name is Job Dominic 👋
 
 Welcome to my GitHub profile!  
-I’m a student of SCMS School of Technology anf Management. My academic journey seamlessly integrates these fields, providing me with a strong foundation in software development, machine learning and data analysis – all areas that align with my personal interests. 
+I’m a Software engineer who finished my Masters in Computer Application from SCMS School of Technology and Management. My academic journey seamlessly integrates these fields, providing me with a strong foundation in software development, machine learning and data analysis – all areas that align with my personal interests. 
 I'm passionate about coding, open source, and sharing knowledge.
 
 ## 🚀 About Me
